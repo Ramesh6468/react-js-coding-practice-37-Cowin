@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #161625;
+}
+.logoCard {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.logo {
+  height: 60px;
+}
+.title {
+  color: #2cc6c6;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.heading1 {
+  color: #cbd5e1;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.coverageCard {
+  background-color: #1c1c2b;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.errorImage {
+  height: 200px;
+}
+.error {
+  color: #ffffff;
+  font-weight: bold;
+}
+.failureCard {
+  background-color: #161625;
+}
